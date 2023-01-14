@@ -1,0 +1,20 @@
+{
+  "name": "community-aha-integration",
+  "version": "1.0.0",
+  "description": "Listens for new ideas on Aha and attributes them to users in Insided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Robalino",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.15"
+  }
+}
